@@ -1,7 +1,4 @@
-### Hi there 👋
-
 <!--
-**pegasus1982/pegasus1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus1982&show_icons=true&layout=compact&theme=vue&count_private=true)]() 
 -->
+
+[![Pegasus's github stats](https://github-readme-stats.vercel.app/api?username=pegasus1982&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)]()
+[![Top Langs](https://raw.githubusercontent.com/pegasus/pegasus/master/languages_2020.svg)]()
