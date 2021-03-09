@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 -->
 
 [![Pegasus's github stats](https://github-readme-stats.vercel.app/api?username=pegasus1982&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)]()
-[![Top Langs](https://raw.githubusercontent.com/pegasus/pegasus/master/languages_2020.svg)]()
